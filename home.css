@@ -1,0 +1,99 @@
+
+body{
+    margin-top:0;
+}
+.background{
+    background-image: url("https://d3sftlgbtusmnv.cloudfront.net/blog/wp-content/uploads/2024/10/Death-Valley-In-Faridabad-cp-840x425.jpg");
+    text-align: center;
+    font-family: "Playwrite GB S", cursive;
+    font-weight: 400px;
+    background-size: cover;
+    height: 500px;
+    font-size: 20px;
+    
+}
+.background:hover{
+    background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndmemd1Yzc5N3JoNzU3MXg1OWh3bDA5Y2V3ODVwNW11eWliMmZpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SDPo1yucqLtOKufBEB/giphy.gif");
+    background-size: cover;
+}
+.about{
+    margin:20px 0px;
+    color: whitesmoke;
+    text-shadow: 4px 4px 7px black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Playwrite GB S", cursive;
+    
+}
+#name{
+    background:linear-gradient(rgb(232, 4, 232),rgb(4, 4, 160));
+    padding: 10px;
+    margin: 100px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    border:2px solid whitesmoke;
+
+
+}
+#culture{
+    background: radial-gradient(rgb(5, 5, 152),rgb(181, 2, 181));
+    padding: 10px;
+    border:2px solid whitesmoke;
+    border-radius: 6px;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+.view{
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.activity{
+    margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    font-family: "Playwrite GB S", cursive;
+    text-shadow: 1px 1px 4px black;
+}
+.exploration{
+    background: linear-gradient(rgb(5, 5, 120),rgb(199, 4, 199));
+    color: whitesmoke;
+    text-align: center;
+    font-family: "Playwrite GB S", cursive;
+    text-shadow: 1px 1px 4px black;
+    margin-top: 0;
+}
+.big{
+    display: flex;
+    width: 500px;
+    background: linear-gradient(rgb(3, 94, 130),rgb(205, 85, 145));
+    border-bottom: 6px solid rgb(2, 2, 94);
+    padding: 10px;
+}
+.details{
+    text-align: center;
+    font-family: "Playwrite GB S", cursive;
+    text-shadow: 1px 1px 4px black;
+    color: whitesmoke;
+
+}
+.img-guide{
+    width: 200px;
+    height: 300px;
+    border-radius: 10px;
+}
+.guide{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-guide:hover{
+    background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2F5b2VtM3NiYnZ3aG54MXZ6ZWl2czBtMzB4cDl6Y2JjNG40eGFlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMZN4GMUNlryjSb6zS/giphy.gif");
+    background-size: cover;
+}
+
